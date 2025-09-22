@@ -1,4 +1,4 @@
-# uTPro – Umbraco Turbo Pro  
+#  <img width="50" height="50" alt="Logo" src="https://github.com/user-attachments/assets/09bd91e7-76d6-4223-8ffe-60b3c9cde3b0" /> uTPro – Umbraco Turbo Pro
 ## For developers, by developers  
 
 **uTPro** is a powerful **Starter Kit Template** built to **accelerate website development on the Umbraco platform**.  
